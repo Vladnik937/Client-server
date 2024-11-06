@@ -1,3 +1,4 @@
+Гугл дока - [Link](https://docs.google.com/document/d/1EeEM8RuYnSJbpC3w6UmvTpl3AFBo6ISHtLtMuKOZZ1k/edit?tab=t.0#heading=h.gf1hqko9i5uu)
 ## ТЕМЫ:
 
 -  Что такое клиент
